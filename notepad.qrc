@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/arrow_back_FILL0_wght400_GRAD0_opsz48 - 副本.png</file>
+        <file>img/backup_table_FILL0_wght400_GRAD0_opsz48 - 副本.png</file>
+        <file>img/content_copy_FILL0_wght400_GRAD0_opsz48 - 副本.png</file>
+        <file>img/content_paste_FILL0_wght400_GRAD0_opsz48 - 副本.png</file>
+        <file>img/cut_FILL0_wght400_GRAD0_opsz48 - 副本.png</file>
+        <file>img/find_replace_FILL0_wght400_GRAD0_opsz48 - 副本.png</file>
+        <file>img/forward_FILL0_wght400_GRAD0_opsz48 - 副本.png</file>
+        <file>img/home_repair_service_FILL0_wght400_GRAD0_opsz48 - 副本.png</file>
+        <file>img/location_home_FILL0_wght400_GRAD0_opsz48 - 副本.png</file>
+        <file>img/open_in_new_FILL0_wght400_GRAD0_opsz48 - 副本.png</file>
+        <file>img/palette_FILL0_wght400_GRAD0_opsz48 - 副本.png</file>
+        <file>img/save_as_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/search_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/undo_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/expand_content_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/save_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/published_with_changes_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/format_list_numbered_rtl_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/wenben.png</file>
+    </qresource>
+</RCC>
